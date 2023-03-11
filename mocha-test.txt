@@ -1,21 +1,8 @@
   moveDodgerLeft()
-    1) moves the DODGER to the left
+    ✓ moves the DODGER to the left
 
   moveDodgerRight()
-    2) moves the DODGER to the right
+    ✓ moves the DODGER to the right
 
 
-  0 passing (252ms)
-  2 failing
-
-  1) moveDodgerLeft()
-       moves the DODGER to the left:
-     ReferenceError: moveDodgerLeft is not defined
-      at Context.<anonymous> (test/indexTest.js:12:5)
-      at process.processImmediate (node:internal/timers:476:21)
-
-  2) moveDodgerRight()
-       moves the DODGER to the right:
-     ReferenceError: moveDodgerRight is not defined
-      at Context.<anonymous> (test/indexTest.js:30:5)
-      at process.processImmediate (node:internal/timers:476:21)
+  2 passing (255ms)
